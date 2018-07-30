@@ -25,5 +25,5 @@ The data is from a Kaggle competition [Loan Default Prediction](https://www.kagg
 Python 3, scikit-learn, matplotlib, xgboost, tensorflow, keras.
 
 ## Usage
-Download train_v2.csv from https://www.kaggle.com/c/loan-default-prediction/data and put in the loan-default-prediction directory. Running the first Jupyter notebook, [Loan Default Prediction - 01 - Data Preprocessing.ipynb](https://github.com/steggie3/loan-default-prediction/blob/master/Loan%20Default%20Prediction%20-%2001%20-%20Data%20Preprocessing.ipynb) will give you a few processed CSV files which are used in subsequent notebooks as the training data.
+Download train_v2.csv from https://www.kaggle.com/c/loan-default-prediction/data and put in the loan-default-prediction directory. Running the first Jupyter notebook, [Loan Default Prediction - 01 - Data Preprocessing.ipynb](https://github.com/steggie3/loan-default-prediction/blob/master/Loan%20Default%20Prediction%20-%2001%20-%20Data%20Preprocessing.ipynb) will give you a few processed CSV files, which are used in subsequent notebooks as the training data. The rest of the notebooks do not have strong dependencies.
 
