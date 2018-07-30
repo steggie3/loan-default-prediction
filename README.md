@@ -1,4 +1,3 @@
-# loan-default-prediction
 ## Loan Default Prediction Machine Learning Project
 
 This is an exploratory project for me to apply what I have learned in the Data Science and Machine Learning courses that I took this year, including:
