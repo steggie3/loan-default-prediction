@@ -1,6 +1,6 @@
 ## Loan Default Prediction Machine Learning Project
 
-This is an exploratory project for me to apply what I have learned in the Data Science and Machine Learning courses that I took this year, including:
+This is an exploratory project for me to apply and compare different ML models and techniques, including:
 + Feature Engineering
   + One-hot encoding for categorical features
   + Normalization/standardization
